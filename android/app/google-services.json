@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "511954268908",
+    "project_id": "smartshop-discount",
+    "storage_bucket": "smartshop-discount.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511954268908:android:dea8b9bd9b1650082eabc9",
+        "android_client_info": {
+          "package_name": "com.example.smartshop_discount"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSS-mlLYtOcEgQrnI3AV2KVIOBq-EFPPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511954268908:android:5ba3973bc6c09c292eabc9",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSS-mlLYtOcEgQrnI3AV2KVIOBq-EFPPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

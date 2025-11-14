@@ -53,10 +53,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBSS-mlLYtOcEgQrnI3AV2KVIOBq-EFPPI',
-    appId: '1:511954268908:android:5ba3973bc6c09c292eabc9',
-    messagingSenderId: '511954268908',
-    projectId: 'smartshop-discount',
-    storageBucket: 'smartshop-discount.firebasestorage.app',
+    apiKey: 'AIzaSyAPEnftDsaq8gq0qXraW_01evaJ5strzQQ',
+    appId: '1:781138426329:android:4da924a462f295e506c1c8',
+    messagingSenderId: '781138426329',
+    projectId: 'social-media-app-18d71',
+    storageBucket: 'social-media-app-18d71.firebasestorage.app',
   );
+
 }
